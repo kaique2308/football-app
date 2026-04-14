@@ -1,4 +1,4 @@
-const BASE_URL = '/v4';
+const BASE_URL = '/api/v4';
 const API_KEY = process.env.REACT_APP_API_KEY;
 
 const headers = {
